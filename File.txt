@@ -1,1 +1,2 @@
 This is ths first commit of user2 for exercise2
+This is ths second commit of user2 for exercise2
